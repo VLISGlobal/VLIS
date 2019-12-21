@@ -1,2 +1,0 @@
-# VLIS
-Global
